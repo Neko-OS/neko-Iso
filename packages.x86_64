@@ -1,0 +1,16 @@
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+base
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+python
+qt6
+qt6-base
+pyside6
+xorg
+xorg-xinit
+memtest86+ #memtest for syslinux
+edk2-shell #uefi shell for systemd-boot
+nvidia
