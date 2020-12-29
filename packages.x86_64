@@ -14,3 +14,5 @@ xorg-xinit
 memtest86+ #memtest for syslinux
 edk2-shell #uefi shell for systemd-boot
 nvidia
+xf86-video-amdgpu
+xf86-video-intel
